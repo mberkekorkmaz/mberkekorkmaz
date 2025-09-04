@@ -54,5 +54,6 @@ Bir kod sihirbazı, problem çözücü ve sürekli öğrenen bir teknoloji merak
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyou.space/github/mberkekorkmaz/mberkekorkmaz.svg?style=for-the-badge&color=white" alt="Ziyaretçi Sayısı"/>
+  <img src="https://profile-counter.glitch.me/{mberkekorkmaz}/count.svg" alt="Ziyaretçi Sayısı"/>
+
 </p>
