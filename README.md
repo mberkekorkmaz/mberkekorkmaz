@@ -52,8 +52,3 @@ Bir kod sihirbazı, problem çözücü ve sürekli öğrenen bir teknoloji merak
     <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{mberkekorkmaz}/count.svg" alt="Ziyaretçi Sayısı"/>
-
-</p>
